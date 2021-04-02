@@ -1,0 +1,28 @@
+<svg width="680" height="253" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="255" width="682" y="-1" x="-1"/>
+  <g style="vector-effect: non-scaling-stroke;" stroke="null" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <defs style="vector-effect: non-scaling-stroke;" stroke="null">
+   <style style="vector-effect: non-scaling-stroke;" stroke="null" type="text/css">
+    <![CDATA[
+    .fil0 {fill:#D5AA61}
+   ]]>
+   </style>
+  </defs>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g transform="rotate(-15 168.9384460449221,142.10505676269534) " stroke="null" stroke-opacity="0" id="svg_28">
+   <g stroke="null" transform="matrix(-0.050130774806509855,0,0,0.04411191814377249,442630.14870800707,-291112.9026373901) " id="svg_24">
+    <metadata stroke="#d5aa61" transform="translate(3590.60888671875,739.7452392578125) translate(-3674.599609375,429.52947998046875) translate(-20.997713088989258,0) translate(356.96112060546875,-2219.235595703125) translate(15205.6474609375,-286.3529968261719) translate(-13914.7724609375,-11272.7265625) translate(8807458,0) translate(0,6605699) " id="svg_25"/>
+    <path stroke="#d5aa61" id="svg_27" d="m8819656.84768,6605196.95956c-1301,0 -1495,-147 -1859,-155l0,-155c192,0 2091,-173 2091,-620l0,-465c-1129,0 -2637,681 -3563,465c-146,628 -154,669 455,1172c426,353 1063,1146 1384,1637c125,190 91,226 330,290c339,-642 76,-664 -465,-1472c3381,788 7167,-1614 9151,-4095c350,-438 1461,-2032 1461,-2644c0,-210 -37,-214 -77,-388c-397,33 -300,136 -443,487l-1980,2823c-540,639 -2556,1990 -3398,2334c-851,348 -1924,786 -3087,786z" class="fil0"/>
+   </g>
+  </g>
+ </g>
+</svg>

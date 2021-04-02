@@ -1,0 +1,31 @@
+<svg width="110" height="110" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="112" width="112" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g stroke="null" id="svg_30">
+   <g stroke="null" transform="matrix(0.9861108758084629,0,0,0.9771823099593011,-433.12485338181705,-428.2052352513447) " id="svg_27">
+    <title stroke="null" transform="translate(26.36620330810547,14.32690715789795) translate(439.9999694824219,0) translate(0,439.9999694824219) ">background</title>
+    <rect stroke="null" x="465.36617" y="453.32688" width="112" height="112" id="svg_25" fill="none"/>
+    <g stroke="null" id="svg_24" display="none">
+     <rect stroke="null" id="svg_28" width="800" height="600" x="467.36617" y="455.32688" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.9861108758084629,0,0,0.9771823099593011,-433.12485338181705,-428.2052352513447) " id="svg_29">
+    <title fill="#d5aa61" stroke="null" transform="translate(5.684341886080802e-14,-0.5117130875587463) translate(1.0140817165374756,5.684341886080802e-14) translate(-18.253524780273438,-11.256855010986328) translate(-9.126762390136719,-3.070051431655884) translate(26.36620330810547,14.32690715789795) translate(439.9999694824219,0) translate(0,439.9999694824219) ">Layer 1</title>
+    <g stroke="null" id="svg_22">
+     <path stroke="null" d="m513.04775,494.49177l33.83827,-33.83827c3.73878,-3.73878 3.73878,-9.80027 0,-13.5332l-4.51107,-4.51107c-3.73994,-3.73995 -9.80144,-3.73995 -13.53437,0l-33.8371,33.8371l-33.83827,-33.84411c-3.73878,-3.73878 -9.80027,-3.73878 -13.5332,0l-4.51808,4.51107c-3.73878,3.73995 -3.73878,9.80144 0,13.53437l33.84411,33.84412l-33.8371,33.8371c-3.73995,3.73995 -3.73995,9.80144 0,13.53437l4.51107,4.51107c3.73878,3.73878 9.80027,3.73878 13.5332,0l33.83827,-33.83827l33.8371,33.83827c3.73995,3.73878 9.80144,3.73878 13.53437,0l4.51107,-4.51107c3.73878,-3.73994 3.73878,-9.80144 0,-13.53437l-33.83827,-33.8371l0,-0.00001zm0,0" id="svg_23" fill="#d5aa61"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
